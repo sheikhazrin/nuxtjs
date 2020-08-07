@@ -9,6 +9,7 @@
     "build": "nuxt generate",
     "start": "nuxt start"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "dependencies": {
     "nuxt": "^2.0.0"
   },
